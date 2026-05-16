@@ -96,6 +96,7 @@ SDET | API Testing | Postman | Newman | Automation Testing
 
 #Output
 Newman report
+
 <img width="554" height="578" alt="image" src="https://github.com/user-attachments/assets/4446d256-29bb-453a-a5d1-fb872f4590dd" />
 
 
